@@ -1,0 +1,17 @@
+<?php
+require_once("modelY.php");
+	require("header2Y.php");
+	
+	
+?>
+<a href="indexgY.php"><img id="center4" src="logologo.png"/></a>
+<div id='choose1'>
+<img id="scene" src="5th.png"/></a>
+<div id='choose2'>
+</br>
+<span id='choose'><a href='choose6Y.php'>Yes</a></span>
+<span id='choose'><a href='choose6Y.php'>No</a></span>
+</div>
+</div>
+<?php	
+	require("footerY.php");
