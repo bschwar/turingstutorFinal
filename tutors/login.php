@@ -23,7 +23,7 @@
 			header("Location: da.php"); 
 			exit(0);
 		}else{
-			$error = "Username or Passwors Incorrect.";
+			$error = "Username or Password is Incorrect.";
 		}
 	}
 	require("header.php");

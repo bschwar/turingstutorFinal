@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-$connection = new mysqli("localhost","turings1","9jVY4Wn$(5dFWiP","turings1_data");
+$connection = new mysqli("localhost:3306","turings1","9jVY4Wn$(5dFWiP","turings1_data");
 if($connection->connect_error){
 	die("Failed to connect to database");
 }

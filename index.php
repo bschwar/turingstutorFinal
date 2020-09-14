@@ -54,7 +54,11 @@ opacity: 0.3;
 	transform: scale(1.1);
 	
 }
-
+.con{
+	color: red;
+	margin: auto;
+	font-size: 200px;
+}
 
 .container:hover{
 background: rgba(0, 0, 0, 0.8);
@@ -63,6 +67,7 @@ background: rgba(0, 0, 0, 0.8);
 </style>
 
 <body>
+	<p class="con">Under Construction</p>
 	<div class="logo">
 <img class="logo2" src="classes/ttlogo6fin3.png">
 </div>
